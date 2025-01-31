@@ -10,8 +10,6 @@ Implementation of programming projects from the **Deep Learning Specialization**
 
 **Skills:** TensorFlow, Deep Learning, Hyperparameter Tuning, Mathematical Optimization  
 
----
-
 ## Course 2: Improving Deep Neural Networks 
 - Best practices for training/test set development  
 - Bias-variance analysis and optimization techniques  
@@ -21,8 +19,6 @@ Implementation of programming projects from the **Deep Learning Specialization**
 
 **Skills:** GRU, RNN, NLP, LSTM, Attention Models  
 
----
-
 ## Course 3: Structuring Machine Learning Projects
 - Diagnose and reduce ML system errors  
 - Prioritize strategies for improving model performance  
@@ -31,8 +27,6 @@ Implementation of programming projects from the **Deep Learning Specialization**
 
 **Skills:** Neural Networks, Backpropagation, Python, Deep Learning  
 
----
-
 ## Course 4: Convolutional Neural Networks 
 - Build and train CNNs for visual recognition  
 - Implement ResNets and other advanced architectures  
@@ -40,8 +34,6 @@ Implementation of programming projects from the **Deep Learning Specialization**
 - Explore neural style transfer for artistic applications  
 
 **Skills:** Decision-Making, Machine Learning, Inductive Transfer, Multi-Task Learning  
-
----
 
 ## Course 5: Sequence Models 
 - Build and train RNNs, GRUs, and LSTMs  
